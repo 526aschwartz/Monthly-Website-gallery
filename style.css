@@ -1,0 +1,80 @@
+.card {
+    padding: 14px;
+    background-color: #cdc5fa;
+    border: solid #9f8ffa 3px;
+    font-family: "pinot-grigio-modern", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .card-title {
+    font-family: "pinot-grigio-modern", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+    text-align: center;
+  }
+
+  .btn {
+    background-color: #9f8ffa;
+    text-decoration: none;
+    color: black;
+    font-family: "pinot-grigio-modern", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.btn-primary {
+    color: black;
+    background-color: #9f8ffa;
+    border-color: #cdc5fa; /*set the color you want here*/
+    border: solid 3px #8974fc;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: black;
+    background-color: #cdc5fa;
+    border-color: #1b1f22; /*set the color you want here*/
+    border: solid 3px #8974fc;
+}
+
+.hero {
+    background-color: #cdc5fa;
+    border: solid #9f8ffa 3px;
+}
+
+nav {
+    background-color: #cdc5fa;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    color: white !important;
+    background-color: #9f8ffa;
+  }
+  
+  .nav-link {
+    font-size: 35px;
+    font-family: "pinot-grigio-modern", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .navbar-brand {
+    font-size: 40px;
+    font-family: "pinot-grigio-modern", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  } 
+
+  .dropdown-menu {
+    background-color: #cdc5fa;
+    font-family: "pinot-grigio-modern", sans-serif;
+  }
+
+  .hero {
+    background-color: #cdc5fa;
+    font-family: "pinot-grigio-modern", sans-serif;
+    font-weight: 400;
+    font-size: 45px;
+  }
