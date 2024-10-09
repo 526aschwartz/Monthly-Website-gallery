@@ -71,6 +71,7 @@ nav {
     background-color: #cdc5fa;
     font-family: "pinot-grigio-modern", sans-serif;
     text-align: center;
+    border: solid 2px #9f8ffa;
   }
 
   .dropdown-item:hover {
@@ -83,4 +84,9 @@ nav {
     font-family: "pinot-grigio-modern", sans-serif;
     font-weight: 400;
     font-size: 45px;
+  }
+
+  .navbar-toggler {
+    background-color: #9f8ffa;
+    border: none;
   }
