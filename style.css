@@ -70,8 +70,14 @@ nav {
   .dropdown-menu {
     background-color: #cdc5fa;
     font-family: "pinot-grigio-modern", sans-serif;
+    text-align: center;
   }
 
+  .dropdown-item:hover {
+    background-color: #9f8ffa;
+    color: white;
+  }
+  
   .hero {
     background-color: #cdc5fa;
     font-family: "pinot-grigio-modern", sans-serif;
